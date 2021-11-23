@@ -1,0 +1,17 @@
+{
+  "name": "vanilla-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.26.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.6"
+  }
+}
